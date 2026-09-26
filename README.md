@@ -36,6 +36,8 @@ Vite + TypeScript, 프레임워크 없음. 그래픽은 이모지와 CSS, 효과
 - `src/games/` 섬별 게임. 각 게임은 `Game` 함수 하나(`src/core/scene.ts`)로, 결과·저장·힌트는 놀이 틀이 처리합니다.
 - `src/data/stages.ts` 섬·단계 이름, 안내 문구, 스티커
 
+자세한 설계와 부모 가이드는 [docs/DESIGN.md](docs/DESIGN.md)에 있습니다.
+
 ## 배포
 
 `main`에 푸시하면 GitHub Actions가 GitHub Pages로 배포합니다.
