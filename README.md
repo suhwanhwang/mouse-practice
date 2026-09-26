@@ -40,4 +40,4 @@ Vite + TypeScript, 프레임워크 없음. 그래픽은 이모지와 CSS, 효과
 
 `main`에 푸시하면 GitHub Actions가 GitHub Pages로 배포합니다.
 저장소 **Settings → Pages → Source**를 **GitHub Actions**로 한 번 설정해 주세요.
-주소: `https://suhwanhwang.github.io/mouse-practice/`
+주소: `https://shwang.dev/mouse-practice/` (블로그 커스텀 도메인 아래 하위 경로)
